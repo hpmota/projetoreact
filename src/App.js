@@ -44,8 +44,7 @@ function App() {
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
                 <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
                 <div className ="card-body">
-                <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
-                do Flamídia.</p>
+                <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, ex presidente do vasco da gama.</p>
                 </div>
               </div>
             </div>
