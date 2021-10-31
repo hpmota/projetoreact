@@ -33,7 +33,7 @@ function App() {
           <div className="row">
             <div className="col lg-5 d-flex justify-content-center m-3">
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
-                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
+                <img className="card-img-top rounded-circle mt-2" src="jogador.jpg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
                 do Flamídia.</p>
@@ -51,7 +51,7 @@ function App() {
             </div>
             <div className="col lg-5 d-flex justify-content-center m-3">
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
-                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
+                <img className="card-img-top rounded-circle mt-2" src="treinador.jpg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
                 do Flamídia.</p>
