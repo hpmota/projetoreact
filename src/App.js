@@ -32,9 +32,8 @@ function App() {
         <div className="container d-flex justify-content-center">
           <div className="row">
             <div className="col lg-5 d-flex justify-content-center m-3">
-              <div className="card bg-dark border-0 shadow-lg" style="width: 18rem;">
-                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="Card image cap"
-                  style="width:50%;margin-left: auto;margin-right: auto;" />
+              <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
+                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
                 do Flamídia.</p>
@@ -42,9 +41,8 @@ function App() {
               </div>
             </div>
             <div className="col lg-5 d-flex justify-content-center m-3">
-              <div className="card bg-dark border-0 shadow-lg" style="width: 18rem;">
-                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="Card image cap"
-                  style="width:50%;margin-left: auto;margin-right: auto;" />
+              <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
+                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
                 do Flamídia.</p>
@@ -52,9 +50,8 @@ function App() {
               </div>
             </div>
             <div className="col lg-5 d-flex justify-content-center m-3">
-              <div className="card bg-dark border-0 shadow-lg" style="width: 18rem;">
-                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="Card image cap"
-                  style="width:50%;margin-left: auto;margin-right: auto;" />
+              <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
+                <img className="card-img-top rounded-circle mt-2" src="presidente.jpg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
                 do Flamídia.</p>
@@ -66,7 +63,7 @@ function App() {
       </section>
 
       <section id="sessao03">
-        <div className="container d-flex justify-content-center align-content-center" style="padding: 25px;">
+        <div className="container d-flex justify-content-center align-content-center" style={{padding: "25px"}}>
           <ul className="nav nav-pills mb-3" id="pills-tab" role="tablist">
             <li className="nav-item">
               <a className="text-white nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab"
