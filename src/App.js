@@ -49,7 +49,7 @@ function App() {
             </div>
             <div className="col lg-5 d-flex justify-content-center m-3">
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
-                <img className="card-img-top rounded-circle mt-2" src="treinador.jpg" alt="a" />
+                <img className="card-img-top rounded-circle mt-2" src="treinador.jpeg" alt="a" />
                 <div className ="card-body">
                 <p className ="card-text text-white text-center font-weight-bold">Igor Guerra, treinador das categorias de base do vasco.</p>
                 </div>
