@@ -35,8 +35,7 @@ function App() {
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
                 <img className="card-img-top rounded-circle mt-2" src="jogador.jpg" alt="a" />
                 <div className ="card-body">
-                <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
-                do Flamídia.</p>
+                <p className ="card-text text-white text-center font-weight-bold">Juninho pernambucano, ídolo vascaino.</p>
                 </div>
               </div>
             </div>
@@ -52,8 +51,7 @@ function App() {
               <div className="card bg-dark border-0 shadow-lg" style={{width: "18rem"}}>
                 <img className="card-img-top rounded-circle mt-2" src="treinador.jpg" alt="a" />
                 <div className ="card-body">
-                <p className ="card-text text-white text-center font-weight-bold">Eurico Miranda, maior odiador
-                do Flamídia.</p>
+                <p className ="card-text text-white text-center font-weight-bold">Igor Guerra, treinador das categorias de base do vasco.</p>
                 </div>
               </div>
             </div>
