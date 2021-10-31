@@ -16,15 +16,6 @@ function App() {
               <li className="nav-item ">
                 <a className="nav-link" href="clube.html">Clube <span className="sr-only">(current)</span></a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="ideologia.html">Ideologia</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="peneira.html">Peneiras</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="contato.html">Contato</a>
-              </li>
             </ul>
           </div>
         </nav>
